@@ -4,6 +4,8 @@ I like programming
 
 Current (active) projects:
 
-- sharp-dependency-injection (ts npm package for dependency injection)
-- CytubeBot (bot for cytu.be, currently private)
-- Universal Automatic Currency Converter (addon/extension for chrome/firefox/edge)
+- Universal Automatic Currency Converter (extension for chrome/firefox/edge)
+- @baizey/dependency-injection (npm package)
+- sharp-time-span (npm package)
+- @baizey/styled-preact (npm package)
+- Npm Updater (Jetbrains plugin)
